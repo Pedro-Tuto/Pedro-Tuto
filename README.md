@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
 
-- 🔭 I’m currently working at CompassUOL Internship Program
-- 🌱 I’m currently learning Java and Spring Boot
+- 🔭 I’m currently working at Veeries
+- 🌱 I’m currently working with Pyhton web scraping
 
 ##
 
