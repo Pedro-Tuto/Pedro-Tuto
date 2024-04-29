@@ -1,8 +1,12 @@
 ### Hi there! 👋
 
 
-- 🔭 I’m currently working at Veeries
-- 🌱 I’m currently working with Pyhton web scraping
+- 🔭 Currently working at Veeries
+- 🌱 Python Back-End Development
+- 📊 Data Science
+- 🛠️ Web Scraping
+- 🗃️ PostgreSQL databases
+- 🔎 AI OCR
 
 ##
 
