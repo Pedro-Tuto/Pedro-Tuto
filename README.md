@@ -7,6 +7,7 @@
 - 🛠️ Web Scraping
 - 🗃️ PostgreSQL databases
 - 🔎 AI OCR
+- 📩 API Development
 
 ##
 
