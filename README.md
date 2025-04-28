@@ -8,6 +8,7 @@
 - 🗃️ PostgreSQL databases
 - 🔎 AI OCR
 - 📩 API Development
+- 🌐 Next/TS Fullstack Development 
 
 ##
 
